@@ -1,7 +1,7 @@
 # 👾 CODEssenceYT
 
 [![GitHub followers](https://img.shields.io/github/followers/CODEssenceYT?label=Follow&style=social)](https://github.com/CODEssenceYT)
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxxxxxxxxxxxxxxxx?label=YouTube&style=social)](https://youtube.com/@codessence-yt)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC3FYiFZ9WkMpr6tK8urUe6Q?label=YouTube&style=social)](https://youtube.com/@codessence-yt)
 [![Top Language](https://img.shields.io/github/languages/top/CODEssenceYT/yt-code-snippets)](https://github.com/CODEssenceYT/yt-code-snippets)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
